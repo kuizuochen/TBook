@@ -1,0 +1,2530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>三高吃漢的大台北美食足跡－大同、中山、萬華、三重、士林、北投篇(2010年至今)</name>
+  <description><![CDATA[方便快速點選地址，且可直接連結至網誌觀看食記
+＜紅色＞可內用的店家或餐廳型 
+＜藍色＞可內用或外帶的攤販型 
+＜綠色＞純外帶類型]]></description>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style93">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style78">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style132">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style72">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style131">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style76">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style106">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style119">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style68">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style101">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style120">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style100">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style79">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style71">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style145">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style111">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style112">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style86">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style116">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style105">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style118">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style97">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style96">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style99">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style87">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style113">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style127">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style146">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style104">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style102">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style109">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style150">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style82">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style135">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style130">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style151">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style107">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style128">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style108">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style117">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style83">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style98">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style142">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style133">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style134">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style114">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style94">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style84">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style95">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style129">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style103">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style126">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style73">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style81">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style123">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style89">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style149">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style125">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style147">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style138">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style75">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style92">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style121">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style143">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style141">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style74">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style122">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style144">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style69">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style115">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style137">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style80">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style77">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style91">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style85">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style136">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style139">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style140">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style90">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style124">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style88">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style148">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style110">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/green-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>大龍街夜市－大龍峒肉圓、新口味鹽酥雞、大眾海鮮粥、阿誠快餐、沙茶羊肉、胡椒餅</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/39066488地址：台北市大同區大龍</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/39066488" target="_blank">http://thudadai.pixnet.net/blog/post/39066488</a><br>地址：台北市大同區大龍街255號(大龍街夜市周邊)<br>營業時間：PM05：00~PM12：00<br>小評：特別推薦新口味鹽酥雞、阿誠快餐、沙茶羊肉</div>]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>121.515976,25.071415,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>第一土鵝</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/36083099地址：台北市大同區酒泉</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/36083099" target="_blank">http://thudadai.pixnet.net/blog/post/36083099</a><br>地址：台北市大同區酒泉街54-1號<br>營業時間：PM3:00~PM9:00<br>小評：這間肉質鮮嫩，且熟度恰恰好，另外極推鵝胗</div>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>121.516037,25.071877,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>萬世香小籠包豆漿店</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/24464009地址：台北市大同區大龍</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/24464009" target="_blank">http://thudadai.pixnet.net/blog/post/24464009</a><br>地址：台北市大同區大龍街270號<br>營業時間：AM5:30~AM10:30 (週日公休)<br>小評：肉汁多又好吃的平價小籠包</div>]]></description>
+    <styleUrl>#style93</styleUrl>
+    <Point>
+      <coordinates>121.515816,25.070772,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>大龍街炸蛋餅</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/12200725地址：台北市大同區大龍</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/12200725" target="_blank">http://thudadai.pixnet.net/blog/post/12200725</a><br>地址：台北市大同區大龍街265號前<br>營業時間：約AM6:15~AM10:20 (10點多賣完收攤)<br>小評：澎軟多汁(油)，雞蛋熟度恰恰好，麵糰裡頭有些許蔥花，裡頭灑上少許的鹽，味道上吃得出麵團香氣，吃起來相當燙口，好吃略鹹<br>&nbsp;</div>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>121.515961,25.071676,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>大龍峒無名油飯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/35383186地址：台北市大同區哈密</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/35383186" target="_blank">http://thudadai.pixnet.net/blog/post/35383186</a><br>地址：台北市大同區哈密街59巷18弄18號<br>營業時間：AM5:00~賣完(約AM9:00 週一公休)<br>小評：是我目前在台北吃到除了林合發以外最好吃的油飯，肉燥和淋醬都很合我口味</div>]]></description>
+    <styleUrl>#style78</styleUrl>
+    <Point>
+      <coordinates>121.515228,25.074368,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>酒泉街無名油飯、香菇肉粥</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/25637501地址：台北市大同區延平</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/25637501" target="_blank">http://thudadai.pixnet.net/blog/post/25637501</a><br>地址：台北市大同區延平北路四段和酒泉街交叉路口<br>營業時間：早上賣到大約下午一兩點賣完為止<br>小評：淋上酸甜口味醬汁的油飯，還不錯。隔壁的肉粥推小菜雞捲和紅燒肉</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>121.511055,25.072092,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>妙口肉包四神湯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/25932253地址：台北市大同區民生</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/25932253" target="_blank">http://thudadai.pixnet.net/blog/post/25932253</a><br>地址：台北市大同區民生西路及迪化街交叉口 <br>營業時間：AM11:00~PM7:00<br>小評：肉包和四神湯都中上，可吃吃</div>]]></description>
+    <styleUrl>#style67</styleUrl>
+    <ExtendedData>
+      <Data name="Address">
+        <value></value>
+      </Data>
+      <Data name="Phone">
+        <value></value>
+      </Data>
+      <Data name="Categories">
+        <value></value>
+      </Data>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>121.509750,25.056847,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>老阿伯魷魚羹、佳興魚丸店</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/25925667老阿伯魷魚羹地址：台北</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/25925667" target="_blank">http://thudadai.pixnet.net/blog/post/25925667</a></div><div dir="ltr">老阿伯魷魚羹<br>地址：台北市大同區延平北路二段210巷21號 (佳興魚丸店旁)<br>營業時間：AM7:00~PM2:30 (週一公休)<br>小評：魷魚魚丸湯蠻平實好吃的</div><div dir="ltr">&nbsp;</div><div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/25852833" target="_blank">http://thudadai.pixnet.net/blog/post/25852833</a></div><div dir="ltr">佳興魚丸店</div><div dir="ltr">地址：台北市大同區延平北路二段210巷21號</div><div dir="ltr">營業時間：AM9:00~PM7:00 (週日至PM6:00)</div><div dir="ltr">小評：魚丸很軟、肉餡鹹香，香菇丸不錯吃</div>]]></description>
+    <styleUrl>#style132</styleUrl>
+    <Point>
+      <coordinates>121.510750,25.059280,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>民樂旗魚米粉</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/25885199地址：台北市大同區民樂</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/25885199" target="_blank">http://thudadai.pixnet.net/blog/post/25885199</a><br>地址：台北市大同區民樂街3號<br>營業時間：AM6:00~12:30<br>小評：米粉加了旗魚乾去熬，很香，小菜也都好吃</div>]]></description>
+    <styleUrl>#style72</styleUrl>
+    <Point>
+      <coordinates>121.510277,25.054331,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>永樂米苔目</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/25925667地址：台北市大同區永昌</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/25925667" target="_blank">http://thudadai.pixnet.net/blog/post/25925667</a><br>地址：台北市大同區永昌街7號<br>營業時間：AM7:00~PM6:00 (假日至PM3:00)<br>小評：米苔目還好，小菜口味中上</div>]]></description>
+    <styleUrl>#style131</styleUrl>
+    <Point>
+      <coordinates>121.510727,25.055613,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>金仙魚丸魯肉飯(永樂市場分店)</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/25852833地址：台北市大同區南京</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/25852833" target="_blank">http://thudadai.pixnet.net/blog/post/25852833</a><br>地址：台北市大同區南京西路233巷19號<br>營業時間：AM6:00~PM8:00 (週日至PM6:00)<br>小評：這間金仙的分店是吃過最喜歡的，好吃</div>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>121.510529,25.054392,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>永樂台南土魠魚羹</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/25819539地址：台北市大同區民樂</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/25819539" target="_blank">http://thudadai.pixnet.net/blog/post/25819539</a><br>地址：台北市大同區民樂街1號<br>營業時間：AM7:30~PM8:30<br>小評：土魠吃起來有腥味，不推</div>]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>121.510307,25.054354,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>寧夏夜市－鴨頭正二代、知高飯、牛媽媽(豪記)牛料理、豬肝榮仔、發發東山鴨頭、郭魚湯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/10747732鴨頭正二代 地址：寧夏夜</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/10747732" target="_blank">http://thudadai.pixnet.net/blog/post/10747732</a><br>鴨頭正二代 <br>地址：寧夏夜市第38號攤<br>營業時間：PM5:00~PM12:00<br>小評：魯肉飯幾乎採用豬皮的部份滷製而成，紅蔥頭香氣加上細碎的豬皮很滑溜，膠質黏性的滷汁拌入飯中很香。這間的蛋包瓜仔肉湯也是甘甜好喝<br><br>知高飯<br>地址：寧夏夜市第17號攤<br>營業時間：PM6:00~AM2:00 <br>小評：滷蹄膀中上水準，蠻平實的，香菇滷肉飯還不錯<br><br><a href="http://thudadai.pixnet.net/blog/post/15475963" target="_blank">http://thudadai.pixnet.net/blog/post/15475963</a><br>牛媽媽(豪記)牛料理<br>地址：寧夏夜市中段，知高飯(17號攤)旁<br>營業時間；PM5:00~AM3:00<br>小評：焢肉滷得ＱＱ的，口味鹹鹹甜甜的很下飯，好吃<br><br>豬肝榮仔<br>地址：台北市大同區寧夏路68號前攤位<br>營業時間：PM5:00~AM1:00  <br>小評：是我吃過最嫩的豬肝之一，湯頭算是清淡甘甜<br><br><a href="http://thudadai.pixnet.net/blog/post/23125935" target="_blank">http://thudadai.pixnet.net/blog/post/23125935</a><br>發發東山鴨頭<br>地址：台北市大同區寧夏路與平陽街口<br>營業時間：PM4:00~AM00:30<br>小評：還不錯吃，推整條的滷大腸<br><br>郭魚湯<br>地址：台北市大同區寧夏路54號<br>營業時間：PM4:30~AM2:00<br>小評：魚肉很有深海魚的感覺，蠻結實的，而且偶爾可以吃到帶膠質的部份，味噌魚湯很鮮美</div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+      <Data name="Phone">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>121.515335,25.056252,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>賴記雞蛋蚵仔煎</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/10729040地址：台北市大同區民生</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/10729040" target="_blank">http://thudadai.pixnet.net/blog/post/10729040</a><br>地址：台北市大同區民生西路198之22號<br>營業時間：PM3:00~AM2:00 (隔週二休)<br>小評：煎得較為焦脆，整體呈現一種固態感，吃起來帶點焦香，邊緣口感則是酥脆，上頭的淋醬甜味較淡，用料扎實，好吃<br>&nbsp;</div>]]></description>
+    <styleUrl>#style76</styleUrl>
+    <Point>
+      <coordinates>121.516045,25.056948,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>香滿園魯肉飯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/12779411地址：台北市大同區萬全</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/12779411" target="_blank">http://thudadai.pixnet.net/blog/post/12779411</a><br>地址：台北市大同區萬全街8巷口<br>營業時間：AM6:00~PM2:00 (週六、日公休)<br>小評：只採用醬油、糖、紅蔥頭滷製而成的肥肉丁，味道上微甜微鹹沒有常見的香料味，呈現醬色的豬皮肉丁散發淡淡脂肪的濃郁感、膠質也多，另外這間有提供許多樣的小盤炒菜<br>&nbsp;</div>]]></description>
+    <styleUrl>#style106</styleUrl>
+    <Point>
+      <coordinates>121.520470,25.057926,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>雙連大腸煎</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/35484120地址：台北市大同區台北</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/35484120" target="_blank">http://thudadai.pixnet.net/blog/post/35484120</a><br>地址：台北市大同區台北市萬全街40巷19號<br>營業時間：AM7:00~PM3:00 (週一公休)<br>小評：遵照以前的作法採用豬大腸去灌的，嚼起來有口感且蠻有香氣<br>&nbsp;</div>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>121.519569,25.058643,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>雙連肉粥</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/16729851地址：台北市大同區雙連</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/16729851" target="_blank">http://thudadai.pixnet.net/blog/post/16729851</a><br>地址：台北市大同區雙連街1巷口<br>營業時間：AM6:00~PM1:30 (週日公休)<br>小評：粥挺有古早味、油蔥香，裡頭的料也豐富，有蚵仔、豬肉、筍絲、香菇、蝦皮等等，小菜有特別的炸魷魚、炸旗魚<br>&nbsp;</div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>121.519196,25.057796,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>葉家肉粥</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/28801430地址：台北市大同區保安</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/28801430" target="_blank">http://thudadai.pixnet.net/blog/post/28801430</a><br>地址：台北市大同區保安街49巷32號<br>營業時間：AM9:00~PM4:00<br>小評：推這間的炸豬肝，很嫩</div>]]></description>
+    <styleUrl>#style119</styleUrl>
+    <Point>
+      <coordinates>121.511856,25.060080,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>許仔豬腳麵線</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/16843721地址：台北市大同區保安</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/16843721" target="_blank">http://thudadai.pixnet.net/blog/post/16843721</a><br>地址：台北市大同區保安街49巷17號<br>營業時間：AM11:00~PM7:00 (週日公休)<br>小評：清燉豬腳很棒，湯頭濃</div>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>121.512184,25.060246,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>慈聖宮四神湯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/34043585地址：台北市大同區保安</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/34043585" target="_blank">http://thudadai.pixnet.net/blog/post/34043585</a><br>地址：台北市大同區保安街49巷<br>營業時間：AM9:30~PM5:00<br>小評：四神湯有股甘蔗香，豬肚肥厚Ｑ彈，新鮮好吃，但蝦餃和肉包不推</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>121.512032,25.059811,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>馬祖宮口原汁排骨湯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/25573917地址：台北市大同區保安</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/25573917" target="_blank">http://thudadai.pixnet.net/blog/post/25573917</a><br>地址：台北市大同區保安街49巷17號<br>營業時間：AM8:00~PM3:00 <br>小評：排骨湯使用肋排部位，好喝，這間的魯肉飯也很不錯</div>]]></description>
+    <styleUrl>#style68</styleUrl>
+    <Point>
+      <coordinates>121.512184,25.060246,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>延三夜市－葉家五香雞捲、橋頭黃大腸煎、大橋頭潤餅</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/26190069葉家五香雞捲地址：台北</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/26190069" target="_blank">http://thudadai.pixnet.net/blog/post/26190069</a><br>葉家五香雞捲<br>地址：台北市大同區延平北路三段8號前<br>營業時間：PM4:30~PM11:00 (賣完收攤)<br><br>橋頭黃大腸煎<br>地址：台北市大同區延平北路三段4號前<br>營業時間：PM5:00~AM1:00<br><br>大橋頭潤餅<br>地址：台北市大同區延平北路三段38號前<br>營業時間：PM4:30~AM1:00<br><br>小評：三間都蠻普通的，沒特別推</div>]]></description>
+    <styleUrl>#style101</styleUrl>
+    <Point>
+      <coordinates>121.511063,25.063490,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>延三夜市香酥蔥油蛋餅(早攤)</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/32589950地址：台北市大同區延平</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/32589950" target="_blank">http://thudadai.pixnet.net/blog/post/32589950</a><br>地址：台北市大同區延平北路三段25-3號<br>營業時間：約中午12點前賣完<br>小評：很香的蔥油蛋餅，好吃不油膩</div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>121.511375,25.064384,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>台北橋頭割包˙魯肉飯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/23645416地址：台北市大同區延平</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/23645416" target="_blank">http://thudadai.pixnet.net/blog/post/23645416</a><br>地址：台北市大同區延平北路三段24號前 (大台北銀行斜對面)<br>營業時間：PM5:00~AM1:00 (不定休)<br>電話：0921-358-873<br>小評：魯肉飯、焢肉飯、小菜樣樣好吃，是我延三最推的店家之一</div>]]></description>
+    <styleUrl>#style70</styleUrl>
+    <Point>
+      <coordinates>121.511047,25.064137,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>阿美古早味</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/56155740" target="_blank">http://thudadai.pixnet.net/blog/post/56155740</a><br>地址：台北市大同區延平北路三段49號前<br>營業時間：PM5:00~PM10:00 (不定休)<br>電話：0921-117232<br>小評：每道菜皆為碳火烹調，黑白切皆有一定水準，碳火煎炸的馬頭魚尤其香酥好吃</div>]]></description>
+    <styleUrl>#style120</styleUrl>
+    <Point>
+      <coordinates>121.511192,25.065252,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>老攤鯊魚煙、周胖子鮮果汁</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/56164101" target="_blank">http://thudadai.pixnet.net/blog/post/56164101</a><br>老攤鯊魚煙<br>地址：台北市大同區延平北路三段64之2號前<br>小評：很有水準的鯊魚煙<br><br>周胖子鮮果汁<br>地址：台北市大同區延平北路三段40號<br>營業時間：PM5:00~AM1:00<br>小評：感覺不出特別的地方，有賣薑汁番茄盤</div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>121.510971,25.065279,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>阿發小籠包</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/29122322地址：台北市大同區歸綏</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/29122322" target="_blank">http://thudadai.pixnet.net/blog/post/29122322</a><br>地址：台北市大同區歸綏街與延平北路交叉路口<br>營業時間：AM7:00~PM7:00<br>小評：內餡吃起來蠻像肉包，略鹹噴香，咬起來很扎實肉很多，還不錯<br>&nbsp;</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>121.511253,25.058174,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>永樂雞捲大王</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/24615204地址：台北市大同區延平</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/24615204" target="_blank">http://thudadai.pixnet.net/blog/post/24615204</a><br>地址：台北市大同區延平北路二段50巷6號<br>營業時間：AM7:30~PM1:00 (週一公休)<br>小評：雞捲普通，但魯肉飯還不錯</div>]]></description>
+    <styleUrl>#style100</styleUrl>
+    <Point>
+      <coordinates>121.511368,25.055164,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>黑點雞肉</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/12194565地址：台北市大同區華亭</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/12194565" target="_blank">http://thudadai.pixnet.net/blog/post/12194565</a><br>地址：台北市大同區華亭街2號 <br>營業時間：AM8:00~PM9:00<br>小評：雞肉和糖心蛋都不錯，最喜歡這間的雞油飯</div>]]></description>
+    <styleUrl>#style79</styleUrl>
+    <Point>
+      <coordinates>121.513145,25.052002,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>大龍峒肉羹</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/13249597地址：台北市大同區重慶</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/13249597" target="_blank">http://thudadai.pixnet.net/blog/post/13249597</a><br>地址：台北市大同區重慶北路三段297號<br>營業時間：AM6:00~PM1:30 (賣完為止，週一公休)<br>小評：我的愛店之一，屬於清甜的湯頭沒有勾芡，不光肉羹好吃，小菜有豬肉甜，乾麵有特別的豆瓣醬，都好吃</div>]]></description>
+    <styleUrl>#style71</styleUrl>
+    <Point>
+      <coordinates>121.514038,25.073643,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>重慶豆漿程</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/10252470地址：台北市大同區重慶</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/10252470" target="_blank">http://thudadai.pixnet.net/blog/post/10252470</a><br>地址：台北市大同區重慶北路3段335巷32號<br>營業時間：AM5:30~AM12:00<br>小評：有特別的菜圃炸蛋餅，還不錯吃，但是我更喜歡附近的一間大龍街炸蛋餅</div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>121.515053,25.074448,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>梅滿美食</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/11767286地址：台北市大同區庫倫</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/11767286" target="_blank">http://thudadai.pixnet.net/blog/post/11767286</a><br>地址：台北市大同區庫倫街13巷2弄2號<br>營業時間：AM6:00~PM2:00 (週六公休)<br>小評：焢肉飯和魯肉飯都中上水準</div>]]></description>
+    <styleUrl>#style145</styleUrl>
+    <Point>
+      <coordinates>121.517273,25.072309,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>鹿港魯肉飯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/25175473地址：台北市大同區延平</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/25175473" target="_blank">http://thudadai.pixnet.net/blog/post/25175473</a><br>地址：台北市大同區延平北路四段155-2號<br>營業時間：AM11:00~PM9:00<br>小評：肉燥燉得爛糊糊，肥多瘦少，很香很滑順，帶點微甜的肉香配上酸菜蠻搭的，好吃。這間另外推帶有酒香的紅燒肉<br>&nbsp;</div>]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>121.511353,25.072962,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>圓環魯肉飯˙肉羹</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/11767604地址：台北市大同區大龍</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/11767604" target="_blank">http://thudadai.pixnet.net/blog/post/11767604</a><br>地址：台北市大同區大龍街196號<br>營業時間：AM5:00~PM2:00 (週日公休)<br>小評：也是典型的北部魯肉飯，偏瘦的碎肉燥淋一層在飯上，濃重的醬油鹹香和紅蔥頭香氣顯得相當下飯，好吃但缺點是有點油<br>&nbsp;</div>]]></description>
+    <styleUrl>#style111</styleUrl>
+    <Point>
+      <coordinates>121.515846,25.069103,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>雙胖子魯肉飯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/10175130地址：台北市大同區昌吉</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/10175130" target="_blank">http://thudadai.pixnet.net/blog/post/10175130</a><br>地址：台北市大同區昌吉街106號<br>營業時間：AM10:00~PM8:00<br>小評：標準的北部魯肉飯，平淡的油蔥、醬油、蒜頭香，以及軟糊糊的肉燥<br>&nbsp;</div>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>121.514900,25.065809,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>大橋頭魯肉飯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/20627386地址：台北市大同區延平</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/20627386" target="_blank">http://thudadai.pixnet.net/blog/post/20627386</a><br>地址：台北市大同區延平北路三段64-1號<br>營業時間：AM12:00~PM8:00<br>小評：魯肉條算是比較清淡的風味，跟許多香料味或鹹甜味較重的魯肉飯比較起來，算是比較著重吃豬肉油脂的原味，好吃<br>&nbsp;</div>]]></description>
+    <styleUrl>#style112</styleUrl>
+    <Point>
+      <coordinates>121.510971,25.065434,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>珠記大橋頭油飯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/24509761地址：台北市大同區民權</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/24509761" target="_blank">http://thudadai.pixnet.net/blog/post/24509761</a><br>地址：台北市大同區民權西路186-1號<br>營業時間：AM6:00~PM2:00<br>小評：採用較軟的圓糯米，搭配肉燥和半熟鴨蛋不錯</div>]]></description>
+    <styleUrl>#style86</styleUrl>
+    <Point>
+      <coordinates>121.514740,25.062780,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>台北橋頭美珠魯肉飯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/27276363地址：台北市大同區昌吉</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/27276363" target="_blank">http://thudadai.pixnet.net/blog/post/27276363</a><br>地址：台北市大同區昌吉街156號<br>營業時間：AM10:30~PM9:00 (週一公休)<br>小評：肉燥不香只有死鹹，小菜也油的不像話，不推</div>]]></description>
+    <styleUrl>#style116</styleUrl>
+    <Point>
+      <coordinates>121.512917,25.065870,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>大橋頭老牌筒仔米糕</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/24133880地址：台北市大同區延平</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/24133880" target="_blank">http://thudadai.pixnet.net/blog/post/24133880</a><br>地址：台北市大同區延平北路三段41號<br>營業時間：AM6:00~PM4:00<br>小評：推肥的米糕，軟綿綿快融化的肥肉薄片潤滑了整粒米糕...<br>&nbsp;</div>]]></description>
+    <styleUrl>#style105</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+      <Data name="Phone">
+        <value></value>
+      </Data>
+      <Data name="Website">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>121.511169,25.064928,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>施家鮮肉湯圓、杉味豆花</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/25229879施家鮮肉湯圓地址：台北</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/25229879" target="_blank">http://thudadai.pixnet.net/blog/post/25229879</a><br>施家鮮肉湯圓<br>地址：台北市大同區延平北路三段58號<br>營業時間：AM11:30~PM12:00<br><br>杉味豆花<br>地址：台北市大同區延平北路三段56號<br>營業時間：AM11:00~AM01:30<br><br>小評：挺有懷舊的風味，口味都中上</div>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>121.510971,25.065125,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>雙連街魯肉飯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/8163218地址：台北市大同區雙連街</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/8163218" target="_blank">http://thudadai.pixnet.net/blog/post/8163218</a><br>地址：台北市大同區雙連街5號<br>營業時間：AM11:00~PM8:30 (週日公休)<br>小評：名氣大可是沒想像中好吃，普通</div>]]></description>
+    <styleUrl>#style118</styleUrl>
+    <Point>
+      <coordinates>121.519150,25.058098,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>滿庭香魯肉飯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/8163218地址：台北市大同區雙連街</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/8163218" target="_blank">http://thudadai.pixnet.net/blog/post/8163218</a><br>地址：台北市大同區雙連街23號<br>營業時間：AM11:00~PM8:30 (週日公休)<br>小評：用豬頸肉熬煮的棉軟，滷汁則有微微的油蔥及肉桂香，膠質豐富，好吃<br>(此篇食記照片曾收錄於樂活逍遙美食Easy GO台北篇)</div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>121.519127,25.058422,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>雙連豆漿</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/35484120地址：台北市大同區錦西</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/35484120" target="_blank">http://thudadai.pixnet.net/blog/post/35484120</a><br>地址：台北市大同區錦西街38巷2號<br>小評：招牌蛋餅餅皮吃起來偏向煎得薄薄脆脆那種，蠻有韌性<br>&nbsp;</div>]]></description>
+    <styleUrl>#style97</styleUrl>
+    <Point>
+      <coordinates>121.520309,25.060122,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>雙連圓仔湯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/8215484地址：台北市大同區民生西</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/8215484" target="_blank">http://thudadai.pixnet.net/blog/post/8215484</a><br>地址：台北市大同區民生西路136號<br>營業時間：AM11:00~PM11:30<br>小評：燒麻糬和刨冰都不錯，值得來吃吃看</div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>121.518906,25.057348,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>昌吉街豬血湯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/10183326地址：台北市大同區昌吉</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/10183326" target="_blank">http://thudadai.pixnet.net/blog/post/10183326</a><br>地址：台北市大同區昌吉街46~48號<br>營業時間：AM9:00~PM10:00<br>小評：豬血湯和腳輪飯都很棒</div>]]></description>
+    <styleUrl>#style96</styleUrl>
+    <Point>
+      <coordinates>121.516830,25.065790,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>正常鮮肉小籠包(大同店)</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/29122322地址：台北市大同區蘭州</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/29122322" target="_blank">http://thudadai.pixnet.net/blog/post/29122322</a><br>地址：台北市大同區蘭州街115號<br>營業時間：AM7:00~PM2:00 PM3:30~PM8:00 (周日下午休息)<br>小評：蔥香氣很重，肉餡帶點微微的甜味，好吃<br>&nbsp;</div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>121.515526,25.064964,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>三元喜市豬腳(大龍峒店)</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/28896752地址：台北市大同區大龍</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/28896752" target="_blank">http://thudadai.pixnet.net/blog/post/28896752</a><br>地址：台北市大同區大龍街288號<br>小評：中間偏上的豬腳便當</div>]]></description>
+    <styleUrl>#style99</styleUrl>
+    <Point>
+      <coordinates>121.515816,25.071171,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>老牌張豬腳飯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/21958059地址：台北市大同區民族</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/21958059" target="_blank">http://thudadai.pixnet.net/blog/post/21958059</a><br>地址：台北市大同區民族西路296號<br>營業時間：AM11:00~PM8:30 (週一公休)<br>小評：豬腳軟爛膠質多，是重口味，可是卻沒有很突出的香味和甜味，是一種古早味的滷汁香氣，搭配辣椒醬油好吃，缺點是環境比較髒，能不能接受看個人<br>&nbsp;</div>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>121.510994,25.068563,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>賣麵炎仔(金泉小吃店)</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/27350708地址：台北市大同區安西</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/27350708" target="_blank">http://thudadai.pixnet.net/blog/post/27350708</a><br>地址：台北市大同區安西街106號<br>營業時間：AM9:00~賣完為止(約PM3:00)<br>小評：80年老店，但小菜和乾麵覺得都中上而已</div>]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>121.509811,25.061094,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>台南碗粿(永樂店)</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/25932253地址：台北市大同區南京</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/25932253" target="_blank">http://thudadai.pixnet.net/blog/post/25932253</a><br>地址：台北市大同區南京西路233巷19號<br>營業時間：AM10:30~PM6:30<br>小評：便宜但吃起來普普通通</div>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>121.510529,25.054392,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>重慶30年老店當歸豬腳</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/38355558地址：台北市大同區歸綏</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/38355558" target="_blank">http://thudadai.pixnet.net/blog/post/38355558</a><br>地址：台北市大同區歸綏街181號<br>營業時間：PM4:30~賣完為止 (週一公休)<br>小評：感覺烹調都蠻用心的店，好吃</div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>121.513123,25.058277,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>祥星記烤鴨</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/23697514地址：台北市大同區延平</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/23697514" target="_blank">http://thudadai.pixnet.net/blog/post/23697514</a><br>地址：台北市大同區延平北路一段97號<br>營業時間：AM11:00~約PM7:00 (下午休息大約到4點吧?週六日公休)<br>小評：在台北吃過算是最喜愛的燒臘店之一，推烤鴨</div>]]></description>
+    <styleUrl>#style87</styleUrl>
+    <Point>
+      <coordinates>121.512016,25.051888,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>鼎旺燒鵝店</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/35062818地址：台北市大同區長安</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/35062818" target="_blank">http://thudadai.pixnet.net/blog/post/35062818</a><br>地址：台北市大同區長安西路47-3號<br>營業時間：AM11:30~PM08:30<br>小評：淋了梅子醬，微酥的口感，油脂很多，連皮帶肉咬進嘴裡就是香滑，還不賴<br>&nbsp;</div>]]></description>
+    <styleUrl>#style113</styleUrl>
+    <Point>
+      <coordinates>121.517906,25.050793,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>龍凰號魯肉飯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/27813474地址：台北市大同區重慶</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/27813474" target="_blank">http://thudadai.pixnet.net/blog/post/27813474</a><br>地址：台北市大同區重慶北路二段53號<br>營業時間：AM10:00~PM10:00<br>小評：魯肉飯類似醬油加上些許咖哩的口味，香味比較複雜，有油蔥五香的味道，整體比較中規中矩，他家雞捲還不錯吃<br>&nbsp;</div>]]></description>
+    <styleUrl>#style127</styleUrl>
+    <Point>
+      <coordinates>121.514290,25.055391,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>龍緣魯肉飯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/7207950地址：台北市大同區重慶北</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/7207950" target="_blank">http://thudadai.pixnet.net/blog/post/7207950</a><br>地址：台北市大同區重慶北路二段17號<br>營業時間：AM10:00~PM22:00<br>小評：魯肉飯咖哩香味比較重，算是這三家裡面最有特色的，我蠻喜歡他家的腳筋肉羹</div>]]></description>
+    <styleUrl>#style146</styleUrl>
+    <Point>
+      <coordinates>121.514458,25.054693,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>三元號魯肉飯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/7207950地址：台北市大同區重慶北</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/7207950" target="_blank">http://thudadai.pixnet.net/blog/post/7207950</a><br>地址：台北市大同區重慶北路二段9號<br>營業時間：AM9:00~PM10:00<br>小評：鹹味較沒這麼重可是味道很濃郁，有明顯的蒜頭香味，肉塊也是肥中帶瘦，滑順中帶點瘦絞肉口感，好吃<br>&nbsp;</div>]]></description>
+    <styleUrl>#style104</styleUrl>
+    <Point>
+      <coordinates>121.514503,25.054495,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>圓環邊蚵仔煎</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/10729040地址：台北市大同區寧夏</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/10729040" target="_blank">http://thudadai.pixnet.net/blog/post/10729040</a><br>地址：台北市大同區寧夏路46號<br>營業時間：PM6:00~AM2:00 <br>小評：蚵仔煎蚵仔給的相當多，上頭的醬汁甜鹹交錯，粉漿的部份很有彈性且不會隨便分離，跟裡頭的小白菜和蚵仔雞蛋一起吃很有一體感，算是頗有水準的蚵仔煎<br>&nbsp;</div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>121.515244,25.056293,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>東石鮮蚵</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/10729040地址：台北市大同區寧夏</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/10729040" target="_blank">http://thudadai.pixnet.net/blog/post/10729040</a><br>地址：台北市大同區寧夏路66號<br>營業時間：PM4:30~AM2:20 (週三公休)<br>小評：特色是所使用的東石蚵仔相當大顆肥美，一咬下去汁就會噴出來，裡頭帶著淡淡的海潮鹹味，醬汁也是甘甜帶點蒜味，另外推蚵仔蛋炒飯<br>&nbsp;</div>]]></description>
+    <styleUrl>#style102</styleUrl>
+    <Point>
+      <coordinates>121.515411,25.056826,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>蔡記嘉義火雞肉飯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/23333521地址：台北市大同區寧夏</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/23333521" target="_blank">http://thudadai.pixnet.net/blog/post/23333521</a></div><div dir="ltr">地址：台北市大同區寧夏路48號<br>營業時間：AM11:00~AM1:30<br>小評：雞肉飯還算嫩，雞油頗香，不過當然不能跟嘉義的比，另外炸雞腿好吃，這間也有賣便當</div>]]></description>
+    <styleUrl>#style109</styleUrl>
+    <Point>
+      <coordinates>121.515289,25.056444,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>客家放山雞莊</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/25375077地址：台北市大同區寧夏</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/25375077" target="_blank">http://thudadai.pixnet.net/blog/post/25375077</a><br>地址：台北市大同區寧夏路50號<br>營業時間：AM11:30~AM3:30<br>電話：(02)2556-6022<br>小評：白斬雞還不錯(金黃色的脂肪)，另外桔醬我覺得好吃，它是有調過的，算是甜中帶微辣的滋味，加上一點醬油就很不錯</div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>121.515343,25.056585,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>馥陽鍋貼水餃專賣店</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/34948413地址：台北市大同區寧夏</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/34948413" target="_blank">http://thudadai.pixnet.net/blog/post/34948413</a><br>地址：台北市大同區寧夏路26-2號<br>營業時間：AM11:30~AM2:00<br>小評：鍋貼確實好吃，前段班的水準</div>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>121.515053,25.055611,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>美而美(長安旗艦店)</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/25103759地址：台北市大同區長安</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/25103759" target="_blank">http://thudadai.pixnet.net/blog/post/25103759</a><br>地址：台北市大同區長安西路55號<br>營業時間：AM6:00~PM8:00<br>小評：很像速食店般的美而美，很大間，漢堡類覺得不錯，比一般美而美好吃</div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>121.517502,25.050894,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>協成魚丸店(大龍總店)</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/25110223地址：台北市大同區重慶</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/25110223" target="_blank">http://thudadai.pixnet.net/blog/post/25110223</a><br>地址：台北市大同區重慶北路三段347號(大龍市場內)<br>營業時間：AM7:30~PM12:10<br>小評：販賣相當多種的炸物，有古早味，好吃</div>]]></description>
+    <styleUrl>#style150</styleUrl>
+    <Point>
+      <coordinates>121.514160,25.074936,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>紅茶屋</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/28888752地址：台北市大同區重慶</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/28888752" target="_blank">http://thudadai.pixnet.net/blog/post/28888752</a><br>地址：台北市大同區重慶北路3段335巷56號之1<br>營業時間：AM8:00~PM10:00<br>小評：喝起來有種略酸略甘的麥味和決明子味，不錯喝</div>]]></description>
+    <styleUrl>#style82</styleUrl>
+    <Point>
+      <coordinates>121.515549,25.074450,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>30年老字號包餡雞蛋糕</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/28888752地址：台北市大同區哈密</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/28888752" target="_blank">http://thudadai.pixnet.net/blog/post/28888752</a><br>地址：台北市大同區哈密街59巷16號<br>營業時間：AM12:00~PM10:00 (周日至PM8:00)<br>小評：口味相當多，大同區老人們推薦的雞蛋糕，不錯吃，他老公阿伯賣的更勝一籌(新光銀行樓下) </div>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>121.515640,25.074404,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>30年老字號包餡雞蛋糕(阿伯版)</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/28888752地址：台北市大同區重慶</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/28888752" target="_blank">http://thudadai.pixnet.net/blog/post/28888752</a><br>地址：台北市大同區重慶北路三段269號<br>營業時間：PM05:30~PM10:00 不定休<br>小評：口味相當多，大同區老人們推薦的雞蛋糕，不錯吃</div>]]></description>
+    <styleUrl>#style65</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+      <Data name="Phone">
+        <value></value>
+      </Data>
+      <Data name="Website">
+        <value></value>
+      </Data>
+      <Data name="Categories">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>121.513992,25.071922,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>陳員外抓餅</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/36838375地址：台北市重慶北路三</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/36838375" target="_blank">http://thudadai.pixnet.net/blog/post/36838375</a><br>地址：台北市重慶北路三段335巷53號<br>營業時間：AM06:00~AM09:00  PM03:00~PM08:00 (周六早上不營業，周日休)<br>小評：抓餅沒有很重的油味，算頗清爽，裡面的油膏味道也不重，感覺起來算是偏向吃抓餅本身香氣的，不容易感到膩，好吃<br>&nbsp;</div>]]></description>
+    <styleUrl>#style135</styleUrl>
+    <Point>
+      <coordinates>121.515388,25.074606,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>禾楓小熊脆皮雞排(雙連總店)</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/34340039地址：台北市大同區南京</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/34340039" target="_blank">http://thudadai.pixnet.net/blog/post/34340039</a><br>地址：台北市大同區南京西路25巷52號 (雙連捷運站1號出口旁)<br>營業時間：PM1:30~PM9:30 (週日公休)<br>小評：相較於派克2，這間的肉偏向帶點嚼勁，脆皮和肉的密合度比較低，口味不像派克這麼甜，鹹味多一些，汁沒這麼多，但也是好吃。另外推薦黃金雞塊<br>&nbsp;</div>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>121.520515,25.057379,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>留乃堂烘培坊(民權分店)</name>
+    <Snippet>芋香肉脯、三星蔥雞腿片、海苔培根捲麵包：http://thudadai.pixn</Snippet>
+    <description><![CDATA[<div dir="ltr">芋香肉脯、三星蔥雞腿片、海苔培根捲麵包：<br><a href="http://thudadai.pixnet.net/blog/post/27683056" target="_blank">http://thudadai.pixnet.net/blog/post/27683056</a><br>芋泥布丁蛋糕：</div><div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/26388382" target="_blank">http://thudadai.pixnet.net/blog/post/26388382</a><br>地址：台北市大同區民權西路84號<br>電話：(02)2557-8988<br>小評：便宜又好吃的台式麵包</div>]]></description>
+    <styleUrl>#style130</styleUrl>
+    <Point>
+      <coordinates>121.519066,25.062653,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>雙連市場香蔥花捲</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/35484120地址：台北市大同區民生</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/35484120" target="_blank">http://thudadai.pixnet.net/blog/post/35484120</a><br>地址：台北市大同區民生西路45巷5弄4號<br>營業時間：AM7:00~PM3:00 (週日公休)<br>小評：外皮酥有嚼勁，而且不會因為略焦就帶有苦味，裡頭的蔥量還蠻多的，很香<br>&nbsp;</div>]]></description>
+    <styleUrl>#style151</styleUrl>
+    <Point>
+      <coordinates>121.521004,25.058348,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>國光手工饅頭</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/29497056地址：台北市大同區寧夏</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/29497056" target="_blank">http://thudadai.pixnet.net/blog/post/29497056</a><br>地址：台北市大同區寧夏路近重慶北路路口旁<br>營業時間：AM6:30~PM8:00<br>小評：饅頭好吃，包子普通</div>]]></description>
+    <styleUrl>#style107</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+      <Data name="Phone">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>121.514771,25.054657,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>慈音古早味阿婆飯團</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/29497056地址：台北市大同區民生</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/29497056" target="_blank">http://thudadai.pixnet.net/blog/post/29497056</a><br>地址：台北市大同區民生西路231號前<br>營業時間：AM7:00~AM11:00 PM6:30~賣完為止<br>小評：好吃但是頗小顆的飯糰</div>]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>121.515823,25.057163,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>林合發油飯、古早味杏仁露、三發點心專賣店(永樂市場內)</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/25885199林合發油飯地址：台北市</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/25885199" target="_blank">http://thudadai.pixnet.net/blog/post/25885199</a><br>林合發油飯<br>地址：台北市大同區迪化街一段21號<br>營業時間：AM7:00~PM5:00 (油飯AM7:30~12:30，不定休)<br>小評：最愛的彌月油飯，單吃不需加醬就非常夠味，除了油蔥香氣還可吃到淡淡的薑味，而且本身就有一股滷肉汁的鹹味在<br><br><a href="http://thudadai.pixnet.net/blog/post/25819539" target="_blank">http://thudadai.pixnet.net/blog/post/25819539</a><br>古早味杏仁露<br>地址：台北市大同區迪化街一段21號<br>營業時間：AM8:00~PM6:00<br>小評：類似菜燕的杏仁凍單吃其實味道不重，淡淡的香氣，油條花生湯也很棒<br><br>三發點心專賣店<br>地址：台北市大同區迪化街一段21號 (永樂市場一樓)<br>營業時間：AM7:30~PM6:00 <br>小評：割包和饅頭都不錯吃</div>]]></description>
+    <styleUrl>#style128</styleUrl>
+    <Point>
+      <coordinates>121.510551,25.054861,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>排行榜鹽酥雞</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/26190069地址：台北市大同區延平</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/26190069" target="_blank">http://thudadai.pixnet.net/blog/post/26190069</a><br>地址：台北市大同區延平北路三段67號<br>營業時間：PM4:00~AM1:00<br>電話：(02)2592-5300<br>小評：算是一間好吃的醬汁鹽酥雞</div>]]></description>
+    <styleUrl>#style108</styleUrl>
+    <Point>
+      <coordinates>121.511131,25.066238,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>阿忠碳烤</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/21680321地址：台北市大同區大龍</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/21680321" target="_blank">http://thudadai.pixnet.net/blog/post/21680321</a><br>地址：台北市大同區大龍街85巷1號 <br>營業時間：PM6:00~PM12:00 <br>小評：好吃的烤肉串，但是要點對東西，推雞腿、雞心、雞屁股、米腸</div>]]></description>
+    <styleUrl>#style117</styleUrl>
+    <Point>
+      <coordinates>121.516655,25.066523,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>和樂鹽酥雞、一級棒燒烤、曾記當歸豬腳、阿宏烏骨雞、Mr.LIN 活力餐飲</name>
+    <Snippet>和樂鹽酥雞、一級棒燒烤http://thudadai.pixnet.net/blog/post/23439543</Snippet>
+    <description><![CDATA[<div dir="ltr">和樂鹽酥雞、一級棒燒烤<br><a href="http://thudadai.pixnet.net/blog/post/23439543" target="_blank">http://thudadai.pixnet.net/blog/post/23439543</a><br>曾記當歸豬腳、阿宏烏骨雞<br><a href="http://thudadai.pixnet.net/blog/post/23452029" target="_blank">http://thudadai.pixnet.net/blog/post/23452029</a><br>雙城街夜市<br>地址：台北市中山區雙城街與農安街交叉路口<br>營業時間：早晚攤販交接約PM5:00~PM6:00營業至PM12:30開始收攤，一級棒燒烤營業至AM3:00左右<br>小評：四間都推，尤其喜歡曾記當歸豬腳</div><div dir="ltr">&nbsp;</div><div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/13239825" target="_blank">http://thudadai.pixnet.net/blog/post/13239825</a></div><div dir="ltr"><span style="background-color:rgb(0, 0, 0)"><span style="color:rgb(255, 153, 0)"><span style="font-size:14pt"><font color="#000000" face="arial,sans-serif" size="2" style="background-color:rgb(255, 255, 255)">Mr.LIN 活力餐飲</font></span></span></span></div><div dir="ltr"><p><span style="background-color:rgb(0, 0, 0)"><span style="color:rgb(255, 153, 0)"><span style="font-size:12pt"><font color="#000000" face="arial,sans-serif" size="2" style="background-color:rgb(255, 255, 255)">地址：台北市中山區雙城美食街日市23號攤 (雙城街農安街交叉路口)</font></span></span></span></p><p><font size="2">營業時間：AM5:00~PM5:00(賣完收，周日休)</font></p><p>小評：不錯吃的法式土司早餐，喜歡豬排口味</p></div>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+      <Data name="Phone">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>121.524277,25.064846,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>錢櫃林森店旁的40年老店</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/27857474地址：台北市中山區林森</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/27857474" target="_blank">http://thudadai.pixnet.net/blog/post/27857474</a><br>地址：台北市中山區林森北路312號旁<br>營業時間：PM9:30~AM8:30<br>小評：半夜想吃便當時可以考慮的店家，價格也不會很貴</div>]]></description>
+    <styleUrl>#style83</styleUrl>
+    <Point>
+      <coordinates>121.525360,25.056515,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>教父牛排(Danny&#39;s Steakhouse)</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/58051863" target="_blank">http://thudadai.pixnet.net/blog/post/58051863</a><br>地址：台北市中山區樂群三路58號<br>營業時間：AM12:00~PM3:00  PM6:00~PM10:30<br>電話：02-85011838<br>小評：雖然是名氣很大的鄧有癸三店，但覺得整體表現不符價位(環境+服務+食物)，只有牛排能看，C/P值不佳</div>]]></description>
+    <styleUrl>#style98</styleUrl>
+    <Point>
+      <coordinates>121.553070,25.082485,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>京都鐵板燒</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/47920374地址：台北市中山區長春</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/47920374" target="_blank">http://thudadai.pixnet.net/blog/post/47920374</a><br>地址：台北市中山區長春路6號<br>營業時間：AM11:00~PM10:00<br>電話：(02)2536-1882<br>小評：有一定料理水準的老店，價格比一些中高價位的鐵板燒價格還要略低一點，龍蝦好吃、牛排還好<br>&nbsp;</div>]]></description>
+    <styleUrl>#style142</styleUrl>
+    <Point>
+      <coordinates>121.523262,25.054857,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>龍都酒樓</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/39579298地址：台北市中山區中山</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/39579298" target="_blank">http://thudadai.pixnet.net/blog/post/39579298</a><br>地址：台北市中山區中山北路一段105巷18-1號<br>營業時間：AM11:30~PM3:00 PM5:00~PM10:00<br>電話：(02)2563-9293<br>小評：有名的烤鴨皮相當脆，被多數人認定為目前台北第一把交椅，務必去吃一次，其餘的菜則普通<br>&nbsp;</div>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>121.524498,25.050377,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>梅子鰻蒲燒屋</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/28231254地址：台北市中山區林森</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/28231254" target="_blank">http://thudadai.pixnet.net/blog/post/28231254</a><br>地址：台北市中山區林森北路107巷8號<br>營業時間：AM11:30~PM2:00 PM5:30~PM10:30<br>小評：鰻魚飯價格合理又好吃，另推烤鰻肝</div>]]></description>
+    <styleUrl>#style133</styleUrl>
+    <Point>
+      <coordinates>121.525337,25.050177,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>富霸王豬腳</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/35898492地址：台北市中山區南京</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/35898492" target="_blank">http://thudadai.pixnet.net/blog/post/35898492</a><br>地址：台北市中山區南京東路二段115巷20號<br>營業時間：AM11:00~PM8:00 (週日公休)<br>小評：這間的豬腳應該是心目中的前幾名，不多說，就是好吃</div>]]></description>
+    <styleUrl>#style134</styleUrl>
+    <Point>
+      <coordinates>121.533508,25.053247,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>伊通街知高飯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/13251171地址：台北市中山區南京</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/13251171" target="_blank">http://thudadai.pixnet.net/blog/post/13251171</a><br>地址：台北市中山區南京東路二段174號 (南京東路伊通街口)<br>營業時間：AM10:30~PM8:00 (週六、日公休)<br>小評：口味簡單但是平實好吃，比起寧夏夜市的知高飯，這間我比較喜歡</div>]]></description>
+    <styleUrl>#style114</styleUrl>
+    <Point>
+      <coordinates>121.534889,25.051661,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>珍饌正傳統四神湯(錦州店)</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/29173514地址：台北市中山區錦州</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/29173514" target="_blank">http://thudadai.pixnet.net/blog/post/29173514</a><br>地址：台北市中山區錦州街262號<br>營業時間：AM11:00~PM9:30 (周六公休)<br>小評：綜合四神湯不錯</div>]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>121.534653,25.060163,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>台南意麵(錦州店)</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/22876533地址：台北市中山區錦州</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/22876533" target="_blank">http://thudadai.pixnet.net/blog/post/22876533</a><br>地址：台北市中山區錦州街241巷1弄19號<br>營業時間：AM11:00~PM10:00<br>小評：還算ok的鹽水意麵</div>]]></description>
+    <styleUrl>#style94</styleUrl>
+    <Point>
+      <coordinates>121.534714,25.060797,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>喜多士蛋餅</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/10242332地址：台北市中山區民權</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/10242332" target="_blank">http://thudadai.pixnet.net/blog/post/10242332</a><br>地址：台北市中山區民權東路二段71巷15號<br>營業時間：AM6:00~AM11:00<br>小評：酥皮口感的蛋餅，不錯吃，但是據說2011年換老闆之後有變差</div>]]></description>
+    <styleUrl>#style84</styleUrl>
+    <Point>
+      <coordinates>121.531807,25.063353,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>丸林魯肉飯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/7212798地址：台北市中山區民族東</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/7212798" target="_blank">http://thudadai.pixnet.net/blog/post/7212798</a><br>地址：台北市中山區民族東路32號<br>營業時間：AM10:30~PM9:00<br>小評：魯肉飯是蠻普通的北部魯肉飯，但是小盤炒菜都不錯吃(類似自助餐取用法)，尤其推焢肉、炸雞腿</div>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>121.524742,25.068285,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>黃記蹄膀˙魯肉飯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/7216769地址：台北市中山區中山北</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/7216769" target="_blank">http://thudadai.pixnet.net/blog/post/7216769</a><br>地址：台北市中山區中山北路二段183巷28號<br>營業時間：AM11:00~PM10:00<br>小評：這間的蹄膀有我吃過的前五名水準，來此必吃，魯肉飯也很好吃</div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>121.524117,25.063719,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>蘇記玉米排骨湯˙凍未條雞肉飯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/34455629地址：台北市中山區林森</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/34455629" target="_blank">http://thudadai.pixnet.net/blog/post/34455629</a><br>地址：台北市中山區林森北路399巷4弄4號<br>營業時間：AM11:00~PM8:30<br>小評：玉米排骨湯甜，好喝。雞肉飯時好時壞品質較不穩，好吃的時候會覺得肉質香滑很棒</div>]]></description>
+    <styleUrl>#style95</styleUrl>
+    <Point>
+      <coordinates>121.525879,25.059017,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>圓山老崔蒸包</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/7347885地址：台北市中山區中山北</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/7347885" target="_blank">http://thudadai.pixnet.net/blog/post/7347885</a><br>地址：台北市中山區中山北路二段137巷33號<br>營業時間：AM5:00~PM1:00 (週一公休)<br>小評：很特別的蒸包，麵皮本身彈牙，而內餡則像牛肉丸子一樣Ｑ彈，加上辣醬滋味更豐富</div>]]></description>
+    <styleUrl>#style129</styleUrl>
+    <Point>
+      <coordinates>121.524704,25.061771,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>女王漢堡</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/7276879地址：台北市中山區民族東</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/7276879" target="_blank">http://thudadai.pixnet.net/blog/post/7276879</a><br>地址：台北市中山區民族東路2號<br>營業時間：AM9:00~PM9:00 (週一至PM5:00)<br>小評：有點類似速食店，天王漢堡不錯吃</div>]]></description>
+    <styleUrl>#style103</styleUrl>
+    <Point>
+      <coordinates>121.523209,25.068314,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Forkers佛克漢堡(中山店)</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/8650598地址：台北市中山區中山北</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/8650598" target="_blank">http://thudadai.pixnet.net/blog/post/8650598</a><br>地址：台北市中山區中山北路二段16巷15號<br>營業時間：週日~週四AM12:00~PM11:00  週五~週六AM12:00~PM12:00<br>電話：02-25677697<br>小評：口味眾多但好吃度普通，吃爽度的</div>]]></description>
+    <styleUrl>#style126</styleUrl>
+    <Point>
+      <coordinates>121.521240,25.053190,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>金佳阿圖麻油雞</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/25815411地址：台北市中山區林森</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/25815411" target="_blank">http://thudadai.pixnet.net/blog/post/25815411</a><br>地址：台北市中山區林森北路552-2號<br>營業時間：AM9:30~PM12:00 (週日至PM9:00)<br>小評：麻油雞很棒！雞肉肉質很好</div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>121.525681,25.064098,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>高家莊米苔目</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/7731406地址：台北市中山區林森北</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/7731406" target="_blank">http://thudadai.pixnet.net/blog/post/7731406</a><br>地址：台北市中山區林森北路279號<br>營業時間：PM8:00~AM5:30<br>小評：米苔目非常彈牙，好吃，魯肉飯也不錯。小菜的紅燒大腸、芥末軟絲都好吃</div>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>121.525627,25.055311,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>世界豆漿大王</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/10266080地址：台北市中山區林森</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/10266080" target="_blank">http://thudadai.pixnet.net/blog/post/10266080</a><br>地址：台北市中山區林森北路310巷27號<br>營業時間：AM6:00~AM11:30 PM6:00~PM11:30 (每月不定期三天星期日晚上休息)<br>小評：帶點韌度和焦香的蛋餅不錯吃，因為在酒店區旁，店內還有日文菜單</div>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>121.524643,25.056343,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>焢大王</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/7747482地址：台北市中山區吉林路</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/7747482" target="_blank">http://thudadai.pixnet.net/blog/post/7747482</a><br>地址：台北市中山區吉林路352號<br>營業時間：週一~週六　中餐及晚餐時段 (周日及下午沒營業)<br>小評：焢肉滷得有如東坡肉一般軟，好吃</div>]]></description>
+    <styleUrl>#style73</styleUrl>
+    <Point>
+      <coordinates>121.530190,25.063698,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>紅翻天生猛活海鮮</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/7388310地址：台北市中山區吉林路</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/7388310" target="_blank">http://thudadai.pixnet.net/blog/post/7388310</a><br>地址：台北市中山區吉林路239號<br>營業時間：PM05:00~AM01:30<br>電話：02-25371629<br>小評：便宜新鮮又好吃，非常值得去的熱炒店</div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>121.530441,25.061129,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>阿城鵝肉(吉林店)</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/55425105" target="_blank">http://thudadai.pixnet.net/blog/post/55425105</a><br>地址：台北市中山區吉林路105號<br>營業時間：AM11:30~PM10:30<br>小評：不論是煙燻鵝肉或是小菜(杏鮑菇香腸、麻辣鴨血)都很不錯，比較普通的大概就是滷白菜，有特別的滷鵝胗鵝心，味道和一般滷味攤差不多，但新鮮度是滷味攤不能比的</div>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>121.530327,25.056404,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>盧記上海菜館</name>
+    <description><![CDATA[<div dir="ltr"><br>盧記上海菜館<br>地址：台北市中山區民生東路二段115巷5號<br>營業時間：AM11:00~PM2:00  PM5:00~PM9:00<br>電話：02-25814645<br>小評：道地的上海菜小館子，價格合理也好吃，推上海醬鴨、油爆河蝦</div>]]></description>
+    <styleUrl>#style81</styleUrl>
+    <Point>
+      <coordinates>121.531792,25.058229,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>常青餃子館</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/26994624地址：台北市中山區中山</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/26994624" target="_blank">http://thudadai.pixnet.net/blog/post/26994624</a><br>地址：台北市中山區中山北路二段183巷1之4號<br>營業時間：AM11:00~PM2:00  PM5:00~PM8:30<br>小評：鍋貼吃起來特別但是貴，有點像是外頭裹一層略有厚度的油炸酥皮，我覺得吃起來還好</div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>121.522835,25.052458,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>高記水餃＆三五水餃</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/8160932雙連高記水餃地址：台北市</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/8160932" target="_blank">http://thudadai.pixnet.net/blog/post/8160932</a><br>雙連高記水餃<br>地址：台北市中山區民生西路17號<br>營業時間：週一~週五 PM4:15~PM11:00 週日 AM9:00~PM9:00 (週六公休)<br><br>三五水餃<br>地址：台北市中山區民生西路17號<br>營業時間：週一~週六 AM8:30~PM4:00 <br>&nbsp;</div><div dir="ltr">小評：這兩家水餃店面是共用的，賣的東西一樣但營業時間不同，比較喜歡高記的韭黃水餃</div>]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>121.521439,25.057880,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>阿娥水餃攤</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/16724701地址：台北市中山區南京</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/16724701" target="_blank">http://thudadai.pixnet.net/blog/post/16724701</a><br>地址：台北市中山區南京東路二段21巷口<br>營業時間：AM11:30~PM7:00 (週六、日公休)<br>小評：蠻平實的店，沒特別好吃但用料扎實</div>]]></description>
+    <styleUrl>#style123</styleUrl>
+    <Point>
+      <coordinates>121.528740,25.052212,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>裕記燒臘</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/8500132地址：台北市中山區龍江路</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/8500132" target="_blank">http://thudadai.pixnet.net/blog/post/8500132</a><br>地址：台北市中山區龍江路170號<br>營業時間：AM11:00~PM10:00<br>小評：口味普通，店內用餐環境不好</div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>121.540321,25.055262,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>家鴻燒鵝</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/8500132地址：台北市中山區興安街</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/8500132" target="_blank">http://thudadai.pixnet.net/blog/post/8500132</a><br>地址：台北市中山區興安街53之4號<br>營業時間：AM11:00~PM8:30<br>小評：淋上了帶微微薑汁香味的濃郁醬汁，燒鵝口味偏甜，但不錯吃</div>]]></description>
+    <styleUrl>#style89</styleUrl>
+    <Point>
+      <coordinates>121.541763,25.056271,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>旺味麵場</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/22016271地址：台北市中山區長安</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/22016271" target="_blank">http://thudadai.pixnet.net/blog/post/22016271</a><br>地址：台北市中山區長安東路二段40號<br>營業時間：AM11:00~PM10:00<br>小評：很好吃的味噌拉麵，尤其喜歡他家的叉燒，推九州麥叉燒拉麵</div>]]></description>
+    <styleUrl>#style149</styleUrl>
+    <Point>
+      <coordinates>121.531662,25.048384,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>灣仔茶餐廳</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/20607106地址：台北市中山區錦州</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/20607106" target="_blank">http://thudadai.pixnet.net/blog/post/20607106</a><br>地址：台北市中山區錦州街438號<br>營業時間：AM11:00~PM9:00<br>小評：口味一般，沒特別推，XO豬扒炒公仔麵還不錯</div>]]></description>
+    <styleUrl>#style125</styleUrl>
+    <Point>
+      <coordinates>121.542923,25.060040,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>香港茶水攤(南京旗艦店)</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/20673540地址：台北市中山區南京</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/20673540" target="_blank">http://thudadai.pixnet.net/blog/post/20673540</a><br>地址：台北市中山區南京東路三段218號<br>營業時間：AM11:30~PM10:00<br>小評：整體表現中上，蒸飯類不錯</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>121.543480,25.051634,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>多田壽司屋</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/16860559地址：台北市中山區南京</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/16860559" target="_blank">http://thudadai.pixnet.net/blog/post/16860559</a><br>地址：台北市中山區南京東路三段216巷6號<br>營業時間：AM11:00~PM2:00 PM5:00~PM9:00 (週日公休)<br>小評：平價的日式料理，C/P值尚可</div>]]></description>
+    <styleUrl>#style147</styleUrl>
+    <Point>
+      <coordinates>121.543488,25.050827,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>山東鹿家莊麵食館(興安店)</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/13285661地址：台北市中山區興安</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/13285661" target="_blank">http://thudadai.pixnet.net/blog/post/13285661</a><br>地址：台北市中山區興安街98號<br>營業時間：AM11:00~PM2:00 PM5:00~PM9:00<br>小評：C/P值OK，好吃度尚可，僅推黃金煎餃</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>121.542419,25.055811,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>大食代美食廣場</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/58069380" target="_blank">http://thudadai.pixnet.net/blog/post/58069380</a><br>地址：台北市中山區樂群三路218號<br>營業時間：AM11:00~PM10:00 (周五周六至PM12:00)<br>小評：多達40~50間店家，百貨美食街式樣，具懷舊風格，可做為休憩或逛逛之處</div>]]></description>
+    <styleUrl>#style138</styleUrl>
+    <Point>
+      <coordinates>121.558090,25.082487,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>晴光紅豆餅、張家一品香滷味、老地方滷味</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/7262104晴光紅豆餅地址：台北市中</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/7262104" target="_blank">http://thudadai.pixnet.net/blog/post/7262104</a><br>晴光紅豆餅<br>地址：台北市中山區雙城街12巷116號攤<br>營業時間：AM10:00~PM9:00 (週日公休) <br>小評：餡料飽滿，既大顆外皮又脆，好吃<br><br>張家一品香滷味(創始店)<br>地址：台北市中山區雙城街12巷9-1號 <br>營業時間：AM10:30~PM7:30 (除特別公告外周六日照常營業) <br>小評：吃過最好吃的乾滷味之一，到這附近一定要買來品嘗<br><br>老地方滷味<br>地址：台北市中山區雙城街12巷5號<br>營業時間：週二~週五AM11:00至賣完為止 (通常下午三、四點就快賣完囉！)<br>小評：較沒有一品香滷味來的油，也是好吃，推雞胗、粉肝、雞屁股<br> </div>]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>121.523521,25.064528,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>丁香豆花、脆皮鮮奶甜甜圈</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/26100913丁香豆花地址：台北市中</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/26100913" target="_blank">http://thudadai.pixnet.net/blog/post/26100913</a><br>丁香豆花<br>地址：台北市中山區雙城街12巷28號<br>營業時間：AM10:00~PM9:30<br>小評：布丁豆花可以吃吃<br><br>脆皮鮮奶甜甜圈<br>地址：台北市中山區雙城街12巷28號<br>營業時間：AM11:00~PM7:30 or PM8:00<br>小評：不錯吃，推原味和芋頭</div>]]></description>
+    <styleUrl>#style75</styleUrl>
+    <Point>
+      <coordinates>121.523125,25.064501,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>普魯士德國豬腳</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/25576381地址：台北市中山區農安</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/25576381" target="_blank">http://thudadai.pixnet.net/blog/post/25576381</a><br>地址：台北市中山區農安街二巷1號<br>營業時間：AM10:30~PM8:30<br>電話：0928-006-529<br>小評：相對餐廳便宜許多，在家小酌可考慮購買，不過味道當然比不上餐廳的</div>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+      <Data name="Phone">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>121.522888,25.064890,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>德惠街豬血糕</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/26255938地址：台北市中山區德惠</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/26255938" target="_blank">http://thudadai.pixnet.net/blog/post/26255938</a><br>地址：台北市中山區德惠街167巷2號前<br>營業時間：AM11:00~PM8:00 (週日公休)<br>小評：採用菱形厚切手法，是目前吃過最好吃的豬血糕</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>121.531807,25.066643,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>一日均衡手抓飯便當</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/36047025地址：台北市中山區遼寧</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/36047025" target="_blank">http://thudadai.pixnet.net/blog/post/36047025</a><br>地址：台北市中山區遼寧街4號<br>營業時間：AM11:00~PM8:00 (週六日公休)<br>小評：吃起來感覺很健康的便當，既然走健康取向，美味度當然也會受到影響</div>]]></description>
+    <styleUrl>#style92</styleUrl>
+    <Point>
+      <coordinates>121.542046,25.047419,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>雞腿王盒餐</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/29173514地址：台北市中山區錦州</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/29173514" target="_blank">http://thudadai.pixnet.net/blog/post/29173514</a><br>地址：台北市中山區錦州街260號<br>外送電話：(02)2502-4649 (02)2507-9899<br>營業時間：AM10:00~PM2:00 PM5:00~PM8:00 (周日公休)<br>小評：推雞排飯，有蜜酥雞排的感覺</div>]]></description>
+    <styleUrl>#style121</styleUrl>
+    <Point>
+      <coordinates>121.534584,25.060209,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>台灣第一家鹽酥雞(創始店)</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/8656290地址：台北市中山區北安路</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/8656290" target="_blank">http://thudadai.pixnet.net/blog/post/8656290</a><br>地址：台北市中山區北安路530號<br>營業時間：AM11:00~AM00:30 (假日時間延長30分鐘)<br>小評：炸功或用油來說是沒問題的，口味眾多，好吃度中上<br>&nbsp;</div>]]></description>
+    <styleUrl>#style143</styleUrl>
+    <Point>
+      <coordinates>121.546623,25.079714,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>小紅帽獨家醬汁香雞排</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/27382222地址：台北市中山區民權</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/27382222" target="_blank">http://thudadai.pixnet.net/blog/post/27382222</a><br>地址：台北市中山區民權東路二段92巷(泰安醫院旁)<br>營業時間：PM3:00~PM11:00 (週日公休)<br>小評：炸功不錯，醬汁很適合</div>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+      <Data name="Phone">
+        <value></value>
+      </Data>
+      <Data name="Website">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>121.531563,25.061518,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>包好吃炭烤</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/12198517地址：台北市中山區興安</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/12198517" target="_blank">http://thudadai.pixnet.net/blog/post/12198517</a><br>地址：台北市中山區興安街68號之4<br>營業時間：PM5:00開始 (週一公休)<br>小評：特色醬料香氣濃郁，帶有甜味但是不會過甜，推烤豆皮、金針菇肉串</div>]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>121.540443,25.056011,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>福利麵包食品有限公司</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/23162627地址：台北市中山區中山</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/23162627" target="_blank">http://thudadai.pixnet.net/blog/post/23162627</a><br>地址：台北市中山區中山北路三段23-5號<br>營業時間：AM6:00~PM11:00<br>小評：奶油大蒜法包很棒，必買，其他就免了</div>]]></description>
+    <styleUrl>#style141</styleUrl>
+    <Point>
+      <coordinates>121.522629,25.064531,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>岩島成(新光南西二館B1)</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/27226532地址：台北市中山區南京</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/27226532" target="_blank">http://thudadai.pixnet.net/blog/post/27226532</a><br>地址：台北市中山區南京西路14號B1<br>營業時間：AM11:30~PM10:30<br>小評：皇冠吐司不錯吃，其他普通</div>]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>121.520699,25.052378,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>聖瑪莉(南京店)</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/25228529地址：台北市中山區南京</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/25228529" target="_blank">http://thudadai.pixnet.net/blog/post/25228529</a><br>地址：台北市中山區南京東路一段140號<br>營業時間：AM7:30~PM9:30<br>小評：還算ok的麵包店，紅豆芋頭土司不錯</div>]]></description>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>121.527473,25.051725,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>施福建˙好吃雞肉</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/35879858地址：台北市萬華區環河</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/35879858" target="_blank">http://thudadai.pixnet.net/blog/post/35879858</a><br>地址：台北市萬華區環河南路一段25巷2號<br>營業時間：AM11:00~PM6:00 (週日休)<br>小評：有很棒料很多的10元下水湯(晚去就只剩湯沒有料了)，雞肉也ok</div>]]></description>
+    <styleUrl>#style122</styleUrl>
+    <Point>
+      <coordinates>121.503815,25.046568,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>頂級甜不辣</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/11713950地址：台北市萬華區廣州</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/11713950" target="_blank">http://thudadai.pixnet.net/blog/post/11713950</a><br>地址：台北市萬華區廣州街與梧州街交叉口<br>營業時間：PM4:00~PM12:00<br>小評：很好吃的甜不辣，湯頭加上特製醬料會變成鮮美味道</div>]]></description>
+    <styleUrl>#style144</styleUrl>
+    <Point>
+      <coordinates>121.497658,25.036682,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>東石直銷蚵仔煎</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/32492318地址：台北市萬華區廣州</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/32492318" target="_blank">http://thudadai.pixnet.net/blog/post/32492318</a><br>地址：台北市萬華區廣州街環河南路路口<br>小評：醬汁吃起來有種花生味，蠻特別，邊緣煎的焦焦我很喜歡<br>&nbsp;</div>]]></description>
+    <styleUrl>#style69</styleUrl>
+    <Point>
+      <coordinates>121.495529,25.036839,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>三吉外賣</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/7729606地址：台北市萬華區武昌街</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/7729606" target="_blank">http://thudadai.pixnet.net/blog/post/7729606</a><br>地址：台北市萬華區武昌街二段85之7號<br>營業時間：平日AM10:30~PM11:30，假日AM09:30~PM12:00<br>小評：招牌的烤雞腿吃起來普通，可吃可不吃的一間店</div>]]></description>
+    <styleUrl>#style115</styleUrl>
+    <Point>
+      <coordinates>121.504555,25.045374,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>玉林雞腿大王</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/7229407地址：台北市萬華區康定路</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/7229407" target="_blank">http://thudadai.pixnet.net/blog/post/7229407</a><br>地址：台北市萬華區康定路133號<br>營業時間：AM11:00~PM9:00<br>小評：炸雞腿醃製入味且酥脆好吃，加上些許照燒醬也很棒</div>]]></description>
+    <styleUrl>#style137</styleUrl>
+    <Point>
+      <coordinates>121.502007,25.038881,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>阿財虱目魚肚</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/33356618地址：台北市萬華區內江</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/33356618" target="_blank">http://thudadai.pixnet.net/blog/post/33356618</a><br>地址：台北市萬華區內江街53號<br>營業時間：PM10:00~AM6:00 (週日休) <br>小評：除了虱目魚普通之外，其餘都好吃，推魯肉飯、蔥蛋、滷小腸</div>]]></description>
+    <styleUrl>#style80</styleUrl>
+    <Point>
+      <coordinates>121.505264,25.041670,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>小南鄭記台南碗粿</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/32492318地址：台北市萬華區西園</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/32492318" target="_blank">http://thudadai.pixnet.net/blog/post/32492318</a><br>地址：台北市萬華區西園路1段216號<br>營業時間：AM10:00~PM11:30<br>小評：覺得口味還不錯的南部碗粿</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>121.499207,25.035551,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>天下一家好味老店</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/32492318地址：台北市萬華區康定</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/32492318" target="_blank">http://thudadai.pixnet.net/blog/post/32492318</a><br>地址：台北市萬華區康定路302號<br>營業時間：AM9:30~PM6:30<br>小評：珍珠餛飩小小一顆，皮很滑順，裡頭很有滋味，不錯吃</div>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>121.501312,25.036217,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>龍都冰果</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/32492318地址：台北市萬華區廣州</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/32492318" target="_blank">http://thudadai.pixnet.net/blog/post/32492318</a><br>地址：台北市萬華區廣州街168號<br>營業時間：AM11:30~AM1:30<br>小評：老字號冰店，不過吃起來沒特別感覺</div>]]></description>
+    <styleUrl>#style77</styleUrl>
+    <Point>
+      <coordinates>121.498924,25.036633,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>廟口蚵仔煎</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/11713950地址：台北市萬華區廣州</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/11713950" target="_blank">http://thudadai.pixnet.net/blog/post/11713950</a><br>地址：台北市萬華區廣州街237號<br>營業時間：AM12:00~PM12:00<br>小評：醬料是日式味噌甜醬，吃起來帶點淡淡甜味，口味不重，整體吃起來還OK<br>&nbsp;</div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>121.498489,25.036816,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>小王清湯瓜仔肉、亞洲毒蛇研究所</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/52413316小王清湯瓜仔肉地址：台</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/52413316" target="_blank">http://thudadai.pixnet.net/blog/post/52413316</a><br>小王清湯瓜仔肉<br>地址：台北市萬華區華西街17號-4<br>營業時間：AM09:00~PM08:00 (周二休)<br>小評：魯肉飯帶點炭燒味，很特別，好吃程度逼近TOP級的那幾間，燉肉飯也不錯，清湯瓜仔肉有黑胡椒香，鹹味重一些，甜味少一些<br><br><a href="http://thudadai.pixnet.net/blog/post/52414156" target="_blank">http://thudadai.pixnet.net/blog/post/52414156</a><br>亞洲毒蛇研究所<br>地址：台北市萬華區華西街49號<br>營業時間：PM02:00~AM01:00<br>小評：蛇肉類似雞肉味道，無怪味，蛇膽、蛇血、蛇毒液，其實都算是酒，有點像好喝些的竹葉青酒</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>121.498604,25.039169,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>天天生炒牛肉、北港甜湯</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/11713950天天生炒牛肉地址：華西</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/11713950" target="_blank">http://thudadai.pixnet.net/blog/post/11713950</a><br>天天生炒牛肉<br>地址：華西街觀光夜市133-135號攤位<br>營業時間：AM11:00~AM4:00<br>小評：牛肉湯比不上南部的，炒牛肉類重油重鹹<br><br>北港甜湯<br>地址：台北市萬華區華西街41號<br>營業時間：PM3:30~PM11:00<br>小評：老店，燒麻糬和米糕粥都還好</div>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>121.498535,25.037651,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>福州元祖胡椒餅</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/32492318地址：台北市萬華區和平</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/32492318" target="_blank">http://thudadai.pixnet.net/blog/post/32492318</a><br>地址：台北市萬華區和平西路三段89巷2弄5號<br>營業時間：AM9:00~PM7:00<br>小評：和饒河夜市福州世祖胡椒餅比較起來，<br>這家皮較厚、有麵粉香，裡頭汁較少，但是吃起來比較不油<br>&nbsp;</div>]]></description>
+    <styleUrl>#style91</styleUrl>
+    <Point>
+      <coordinates>121.500687,25.035484,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>懷念愛玉冰</name>
+    <Snippet>http://thudadai.pixnet.net/blog/post/32492318地址：台北市萬華區廣州</Snippet>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/32492318" target="_blank">http://thudadai.pixnet.net/blog/post/32492318</a><br>地址：台北市萬華區廣州街202之1號<br>營業時間：PM3:00~PM12:00<br>小評：裡面好像是加了香蕉油，有種奇特香味</div>]]></description>
+    <styleUrl>#style85</styleUrl>
+    <Point>
+      <coordinates>121.497505,25.036686,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>阿發豬腳</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/29314992" target="_blank">http://thudadai.pixnet.net/blog/post/29314992</a><br>地址：新北市三重區正義北路33巷55號<br>營業時間：?~PM01:30 <br>小評：口味上比較鹹香一些，整體餐點還OK</div>]]></description>
+    <styleUrl>#style136</styleUrl>
+    <Point>
+      <coordinates>121.499115,25.063852,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>三重蛋餅大王</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/32589950" target="_blank">http://thudadai.pixnet.net/blog/post/32589950</a><br>地址：新北市三重區正義南路38號<br>營業時間：只知道早上10:30~11:00之後可能就賣完了<br>小評：好吃的蓬鬆雙蛋炸蛋餅</div>]]></description>
+    <styleUrl>#style139</styleUrl>
+    <Point>
+      <coordinates>121.498291,25.061106,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>正義豆漿店</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/31671408" target="_blank">http://thudadai.pixnet.net/blog/post/31671408</a><br>地址：新北市三重區正義北路110號<br>營業時間：?~AM10:00 or AM11:00<br>小評：燒餅不錯吃，蛋餅煎得好但是醬料不優</div>]]></description>
+    <styleUrl>#style140</styleUrl>
+    <Point>
+      <coordinates>121.496788,25.065220,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>五燈獎豬腳(自強店)</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/29314992" target="_blank">http://thudadai.pixnet.net/blog/post/29314992</a><br>地址：新北市三重區自強路一段119號<br>營業時間：AM10:00~PM9:30   <br>小評：豬腳腿庫軟爛，整體來說是偏甜的味道，好吃</div>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>121.495140,25.066488,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>今大魯肉飯</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/16852217" target="_blank">http://thudadai.pixnet.net/blog/post/16852217</a><br>地址：台北縣三重市大仁街40號<br>營業時間：AM6:00~PM9:00<br>小評：香味淡，口味雖不重但仍有些小濃郁，屬於很順口就會扒光光整碗的那種</div>]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>121.491447,25.064299,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>家鄉涼麵臭豆腐</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/10566520" target="_blank">http://thudadai.pixnet.net/blog/post/10566520</a><br>地址：台北市士林區大南路46號 <br>小評：臭豆腐還不錯，涼麵不清楚</div>]]></description>
+    <styleUrl>#style90</styleUrl>
+    <Point>
+      <coordinates>121.525040,25.089340,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>高麗味</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/31522634" target="_blank">http://thudadai.pixnet.net/blog/post/31522634</a><br>地址：台北市士林區忠誠路二段152號<br>營業時間：AM11:30~PM2:00 PM5:00~PM10:00<br>小評：食物挺有水準，氣氛也不差</div>]]></description>
+    <styleUrl>#style124</styleUrl>
+    <Point>
+      <coordinates>121.532700,25.115019,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>郭家蔥油餅</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/10564586" target="_blank">http://thudadai.pixnet.net/blog/post/10564586</a><br>地址：台北市士林區文林路113號<br>小評：不要買煎好裝袋放著的，不優</div>]]></description>
+    <styleUrl>#style88</styleUrl>
+    <Point>
+      <coordinates>121.526123,25.088207,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>鐘記原上海生煎包</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/10564586" target="_blank">http://thudadai.pixnet.net/blog/post/10564586</a><br>地址：台北市士林區小東街38號(此為新地址)<br>小評：高麗菜包比肉包好吃很多</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>121.526360,25.089437,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ㄘㄠ好吃鹽水雞</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/10564586" target="_blank">http://thudadai.pixnet.net/blog/post/10564586</a><br>地址：台北市士林區大東路57號<br>小評：品項多，價錢便宜，口味尚可</div>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>121.525360,25.089846,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>老士林大餅包小餅、昇記大香腸(士林觀光市場內)</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/10566520" target="_blank">http://thudadai.pixnet.net/blog/post/10566520</a><br>老士林大餅包小餅<br>地址：台北市士林區基河路60號 <br>小評：很乾，不推<br><br>昇記大香腸<br>地址：台北市士林區基河路60號 <br>小評：香腸很普通，比較推薦隔壁的烤雞屁股，讚！</div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>121.524200,25.084908,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>士林馥記脆皮烤鴨</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/33969733" target="_blank">http://thudadai.pixnet.net/blog/post/33969733</a><br>地址：台北市士林區中正路395號<br>營業時間：AM10:30~PM7:30 <br>小評：曾獲得2008烤鴨達人爭霸賽冠軍，偏貴的外帶烤鴨，吃起來還算OK。這間出去開的餐廳"金馥記"，後來改名為"御鼎香"，烤鴨很好吃</div><div dir="ltr">御鼎香食記<a href="http://thudadai.pixnet.net/blog/post/52399920" target="_blank">http://thudadai.pixnet.net/blog/post/52399920</a></div>]]></description>
+    <styleUrl>#style148</styleUrl>
+    <Point>
+      <coordinates>121.521347,25.093994,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>矮仔財魯肉飯</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://thudadai.pixnet.net/blog/post/30636988" target="_blank">http://thudadai.pixnet.net/blog/post/30636988</a><br>地址：台北市北投區北投市場2樓436攤位 (6號入口樓梯上去)<br>營業時間：AM7:00~PM2:00<br>小評：魯肉飯中上水準的好吃，滷菜也很不錯(尤其推滷大腸)，以上為2011.05消費的感想，近來不知有無退步，評價似乎有變差</div>]]></description>
+    <styleUrl>#style110</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+      <Data name="Phone">
+        <value></value>
+      </Data>
+      <Data name="Categories">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>121.502586,25.132710,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>台南滷三塊</name>
+    <description><![CDATA[<a href="http://thudadai.pixnet.net/blog/post/12218337" target="_blank">http://thudadai.pixnet.net/blog/post/12218337</a><br>地址：台北市北投區承德路七段100號<br>營業時間：PM5:00~AM5:00 (週日公休)<br>小評：五花肉吃起來感覺軟嫩且易入口，帶著微微的胡椒香氣，口味微鹹並不算很重，五花肉瘦肉的部份是屬於有彈性的，還不錯吃]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>121.510262,25.111994,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>蔡元益紅茶</name>
+    <description><![CDATA[地址：台北市北投區新市街15號<br>營業時間：AM8:30~PM11:00<br>小評：很便宜的紅茶，喝起來清涼但口味普通]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>121.501823,25.131805,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TravelBook
+</name>
+</assembly>
+<members>
+<member name="M:TravelBook.MainPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="P:TravelBook.AppResources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:TravelBook.AppResources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:TravelBook.AppResources.ResourceFlowDirection">
+	<summary>
+  Looks up a localized string similar to LeftToRight.
+</summary>
+</member><member name="P:TravelBook.AppResources.ResourceLanguage">
+	<summary>
+  Looks up a localized string similar to us-EN.
+</summary>
+</member><member name="P:TravelBook.AppResources.ApplicationTitle">
+	<summary>
+  Looks up a localized string similar to MY APPLICATION.
+</summary>
+</member><member name="P:TravelBook.AppResources.AppBarButtonText">
+	<summary>
+  Looks up a localized string similar to button.
+</summary>
+</member><member name="P:TravelBook.AppResources.AppBarMenuItemText">
+	<summary>
+  Looks up a localized string similar to Menu Item.
+</summary>
+</member><member name="T:TravelBook.AppResources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:TravelBook.App.RootFrame">
+	<summary>
+ Provides easy access to the root frame of the Phone Application.
+ </summary>
+	<returns>The root frame of the Phone Application.</returns>
+</member><member name="M:TravelBook.App.#ctor">
+	<summary>
+ Constructor for the Application object.
+ </summary>
+</member><member name="M:TravelBook.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:TravelBook.LocalizedStrings">
+	<summary>
+ Provides access to string resources.
+ </summary>
+</member>
+</members>
+</doc>
