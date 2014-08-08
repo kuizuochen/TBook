@@ -13,36 +13,37 @@ Public Class clsDatabaseIO
 
         Dim _FS As IsolatedStorageFileStream = _IsolatedStorage.OpenFile(tFilePath, FileMode.Open, FileAccess.Read)
         Dim _Reader As XmlReader = XmlReader.Create(_FS)
-        Dim tempReader As XmlReader
+
+
+        Dim _ResultBook As clsBook
+        Dim _BookName As String = ""
+        Dim _Description As String = ""
+        Dim _StyleReaderList As New List(Of XmlReader)
+        Dim _PleaseReaderList As New List(Of XmlReader)
 
         While _Reader.Read()
             If _Reader.IsStartElement Then
-                If _Reader.Name = "Placemark" Then
-
-
-                    Dim a As String = _Reader.Name
-
-                    tempReader = _Reader.ReadSubtree()
-                    Exit While
-                End If
+                Select Case _Reader.Name.ToLower
+                    Case "name"
+                        _BookName = _Reader.ReadElementContentAsString
+                    Case "description"
+                        _Description = _Reader.ReadElementContentAsString
+                    Case "style"
+                        _StyleReaderList.Add(_Reader.ReadSubtree)
+                        _Reader.ReadInnerXml()
+                    Case "placemark"
+                        _PleaseReaderList.Add(_Reader.ReadSubtree)
+                        _Reader.ReadInnerXml()
+                End Select
             End If
-        End While
+        End While 
 
-        While tempReader.Read()
-            If tempReader.IsStartElement Then 
-
-
-                Dim a As String = tempReader.Name
-                    'a = _Reader.Name
-                Dim k As Integer = 109
-            End If
-
-        End While
+        _ResultBook = New clsBook(_BookName, _Description, _StyleReaderList, _PleaseReaderList)
 
         _Reader.Dispose()
         _FS.Dispose()
 
-        Return Nothing
+        Return _ResultBook
     End Function
  
     Public Shared Sub CopyDefaultKMLToBookShelfFolder()

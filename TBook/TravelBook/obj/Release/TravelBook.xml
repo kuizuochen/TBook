@@ -6,10 +6,19 @@ TravelBook
 </name>
 </assembly>
 <members>
-<member name="M:TravelBook.MainPage.InitializeComponent">
+<member name="P:TravelBook.App.RootFrame">
 	<summary>
-InitializeComponent
-</summary>
+ Provides easy access to the root frame of the Phone Application.
+ </summary>
+	<returns>The root frame of the Phone Application.</returns>
+</member><member name="M:TravelBook.App.#ctor">
+	<summary>
+ Constructor for the Application object.
+ </summary>
+</member><member name="T:TravelBook.LocalizedStrings">
+	<summary>
+ Provides access to string resources.
+ </summary>
 </member><member name="P:TravelBook.AppResources.ResourceManager">
 	<summary>
   Returns the cached ResourceManager instance used by this class.
@@ -43,23 +52,14 @@ InitializeComponent
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
+</member><member name="M:TravelBook.MainPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
 </member><member name="M:TravelBook.App.InitializeComponent">
 	<summary>
 InitializeComponent
 </summary>
-</member><member name="P:TravelBook.App.RootFrame">
-	<summary>
- Provides easy access to the root frame of the Phone Application.
- </summary>
-	<returns>The root frame of the Phone Application.</returns>
-</member><member name="M:TravelBook.App.#ctor">
-	<summary>
- Constructor for the Application object.
- </summary>
-</member><member name="T:TravelBook.LocalizedStrings">
-	<summary>
- Provides access to string resources.
- </summary>
 </member>
 </members>
 </doc>
