@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>台南美食地圖</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>lv1</name>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>富盛號碗粿</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.199066,22.997647,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>金得春捲</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.19904700000001,22.997703,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<name>點 3</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.19971549999998,22.998431900000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>lv2</name>
+			<Placemark>
+				<styleUrl>#icon-503-8080FF</styleUrl>
+				<name>aaaaa</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.1986909,22.9985652,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-3838FF</styleUrl>
+				<name>點 2</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.1980633,22.9981257,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-961-0000F0</styleUrl>
+				<name>點 3</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.2003163,22.9984368,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-0000A8</styleUrl>
+				<name>點 4</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.1966578,22.9981652,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-22'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-0000A8'>
+			<IconStyle>
+				<color>ffA80000</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-3838FF'>
+			<IconStyle>
+				<color>ffFF3838</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-8080FF'>
+			<IconStyle>
+				<color>ffFF8080</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-F8971B'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-961-0000F0'>
+			<IconStyle>
+				<color>ffF00000</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

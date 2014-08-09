@@ -20,6 +20,7 @@ Public Class clsDatabaseIO
         Dim _Description As String = ""
         Dim _StyleReaderList As New List(Of XmlReader)
         Dim _PleaseReaderList As New List(Of XmlReader)
+        Dim _LayerList As New List(Of XmlReader)
 
         While _Reader.Read()
             If _Reader.IsStartElement Then
@@ -34,11 +35,17 @@ Public Class clsDatabaseIO
                     Case "placemark"
                         _PleaseReaderList.Add(_Reader.ReadSubtree)
                         _Reader.ReadInnerXml()
+                    Case "folder"
+                        _LayerList.Add(_Reader.ReadSubtree)
+                        _Reader.ReadInnerXml()
                 End Select
             End If
         End While 
+         
+        _ResultBook = New clsBook(_BookName, _Description, _StyleReaderList, _LayerList, _PleaseReaderList)
 
-        _ResultBook = New clsBook(_BookName, _Description, _StyleReaderList, _PleaseReaderList)
+        
+
 
         _Reader.Dispose()
         _FS.Dispose()

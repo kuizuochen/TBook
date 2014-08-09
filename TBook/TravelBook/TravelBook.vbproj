@@ -132,6 +132,7 @@
     <Compile Include="clsDatabaseIO.vb" />
     <Compile Include="clsDescription.vb" />
     <Compile Include="clsGlobalVariables.vb" />
+    <Compile Include="clsLayer.vb" />
     <Compile Include="clsPlace.vb" />
     <Compile Include="clsPushPinStyle.vb" />
     <Compile Include="LocalizedStrings.vb" />
@@ -174,6 +175,7 @@
     </Content>
     <Content Include="Assets\BadgeLogo.png" />
     <Content Include="Assets\DefaultKML\2010.xml" />
+    <Content Include="Assets\DefaultKML\test-2.xml" />
     <Content Include="Assets\Logo.png" />
     <Content Include="Assets\SplashScreen.png" />
     <Content Include="Assets\SquareTile150x150.png" />

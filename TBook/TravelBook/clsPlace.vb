@@ -23,6 +23,8 @@ Public Class clsPlace
                         mSnippetList.Add(New clsDescription(tPlaceReader.ReadElementContentAsString))
                     Case "description"
                         mDescriptionList.Add(New clsDescription(tPlaceReader.ReadElementContentAsString))
+                    Case "extendeddata"
+                        mDescriptionList.Add(New clsDescription(tPlaceReader.ReadElementContentAsString))
                     Case "styleurl"
                         mStyleUrl = tPlaceReader.ReadElementContentAsString
                     Case "point"

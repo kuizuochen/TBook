@@ -2,6 +2,7 @@
 
     Private mID As String
     Private mStyleIconLink As String
+    Private mScale As String
     Private mKMLString As String
     Public Sub New(tKMLString As String)
         mKMLString = tKMLString
@@ -18,7 +19,9 @@
                     Case "icon" 
                     Case "href"
                         mStyleIconLink = tStyleReader.ReadElementContentAsString()
-                    End Select
+                    Case "scale"
+                        mScale = tStyleReader.ReadElementContentAsString()
+                End Select
             End If
         End While
     End Sub
