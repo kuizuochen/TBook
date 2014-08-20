@@ -125,6 +125,7 @@
     <Import Include="Microsoft.Phone.Shell" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="advObservationCollection.vb" />
     <Compile Include="App.xaml.vb">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
@@ -145,6 +146,9 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>AppResources.resx</DependentUpon>
     </Compile>
+    <Compile Include="vmMain.vb" />
+    <Compile Include="vmMainList.vb" />
+    <Compile Include="vmMainMap.vb" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">

@@ -240,6 +240,9 @@
     <AppxPackagedFile Include="C:\Users\kenny_000\Documents\GitHub\TBook\TBook\TravelBook\Assets\DefaultKML\2010.xml">
       <PackagePath>Assets\DefaultKML\2010.xml</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kenny_000\Documents\GitHub\TBook\TBook\TravelBook\Assets\DefaultKML\test-2.xml">
+      <PackagePath>Assets\DefaultKML\test-2.xml</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenny_000\Documents\GitHub\TBook\TBook\TravelBook\README_FIRST.txt">
       <PackagePath>README_FIRST.txt</PackagePath>
     </AppxPackagedFile>

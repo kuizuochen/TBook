@@ -22,6 +22,11 @@ Public Class clsDatabaseIO
         Dim _PleaseReaderList As New List(Of XmlReader)
         Dim _LayerList As New List(Of XmlReader)
 
+
+        Dim _PlaceList As New List(Of clsPlace)
+        Dim _StyleList As New List(Of clsPushPinStyle)
+
+
         While _Reader.Read()
             If _Reader.IsStartElement Then
                 Select Case _Reader.Name.ToLower
@@ -31,9 +36,11 @@ Public Class clsDatabaseIO
                         _Description = _Reader.ReadElementContentAsString
                     Case "style"
                         _StyleReaderList.Add(_Reader.ReadSubtree)
-                        _Reader.ReadInnerXml()
+                        ' _Reader.ReadInnerXml()
                     Case "placemark"
-                        _PleaseReaderList.Add(_Reader.ReadSubtree)
+                        Dim _tempReader As XmlReader = _Reader.ReadSubtree
+                        _PleaseReaderList.Add(_tempReader)
+                        _PlaceList.Add(New clsPlace(_tempReader))
                         _Reader.ReadInnerXml()
                     Case "folder"
                         _LayerList.Add(_Reader.ReadSubtree)
@@ -45,7 +52,7 @@ Public Class clsDatabaseIO
         _ResultBook = New clsBook(_BookName, _Description, _StyleReaderList, _LayerList, _PleaseReaderList)
 
         
-
+        _ResultBook._pLayerList.Item(0)._pPlaceList = _PlaceList
 
         _Reader.Dispose()
         _FS.Dispose()

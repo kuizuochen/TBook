@@ -11,14 +11,18 @@ Imports Microsoft.Phone.Maps.Controls
 Partial Public Class MainPage
     Inherits PhoneApplicationPage
 
+
     ' Constructor
     Public Sub New()
         InitializeComponent()
 
-        SupportedOrientations = SupportedPageOrientation.Portrait Or SupportedPageOrientation.Landscape
+        '  SupportedOrientations = SupportedPageOrientation.Portrait Or SupportedPageOrientation.Landscape
 
         ' Sample code to localize the ApplicationBar
         'BuildLocalizedApplicationBar()
+
+        DataContext = App.ViewModel
+
 
     End Sub
 
@@ -81,10 +85,17 @@ Partial Public Class MainPage
     End Sub
 
     Private Sub abtnDoTest2_Click(sender As Object, e As EventArgs)
-        '  clsDatabaseIO.ReadKMLFromAsset("Assets/DefaultKML/2010.kml")
+        '' clsDatabaseIO.ReadKMLFromAsset("Assets/DefaultKML/2010.kml")
 
-        clsDatabaseIO.CopyDefaultKMLToBookShelfFolder()
 
-        clsDatabaseIO.ReadKML(clsGlobalVariables.gBookShelfFileFolderName + "2010.xml")
+    End Sub
+
+    Private Sub Button_Click_1(sender As Object, e As RoutedEventArgs)
+        myStoryboard.Begin()
+
+    End Sub
+
+    Private Sub btnTestAnimation2_Click(sender As Object, e As RoutedEventArgs)
+        myStoryboard2.Begin()
     End Sub
 End Class

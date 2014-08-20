@@ -11,6 +11,16 @@ Partial Public Class App
     ''' <returns>The root frame of the Phone Application.</returns>
     Public Shared Property RootFrame As PhoneApplicationFrame
 
+    Private Shared mvmMain As vmMain = Nothing
+    Public Shared ReadOnly Property ViewModel() As vmMain
+        Get
+            ' Delay creation of the view model until necessary
+            If mvmMain Is Nothing Then
+                mvmMain = New vmMain(clsGlobalVariables.gCurrentBook)
+            End If
+            Return mvmMain
+        End Get
+    End Property
     ''' <summary>
     ''' Constructor for the Application object.
     ''' </summary>
@@ -42,7 +52,17 @@ Partial Public Class App
             ' Caution:- Use this under debug mode only. Application that disables user idle detection will continue to run
             ' and consume battery power when the user is not using the phone.
             PhoneApplicationService.Current.UserIdleDetectionMode = IdleDetectionMode.Disabled
+
+
+
+            Debug_LoadKML()
         End If
+    End Sub
+
+    Public Sub Debug_LoadKML()
+        clsDatabaseIO.CopyDefaultKMLToBookShelfFolder()
+        clsGlobalVariables.gCurrentBook = clsDatabaseIO.ReadKML(clsGlobalVariables.gBookShelfFileFolderName + "2010.xml")
+        mvmMain = New vmMain(clsGlobalVariables.gCurrentBook)
     End Sub
 
     ' Code to execute when a contract activation such as a file open or save picker returns 

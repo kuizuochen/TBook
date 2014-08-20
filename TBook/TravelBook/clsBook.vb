@@ -4,38 +4,32 @@ Public Class clsBook
     Implements INotifyPropertyChanged
 
 #Region "Variables"
-    Private mName As String
-    Private mDesctiptionList As List(Of clsDescription)
-    Private mStyleList As List(Of clsPushPinStyle)
-    Private mLayerList As List(Of clsLayer)
-    '   Private mPlaceList As List(Of clsPlace)
+    Public _pName As String
+    Public _pDesctiptionList As List(Of clsDescription)
+    Public _pStyleList As List(Of clsPushPinStyle)
+    Public _pLayerList As List(Of clsLayer) 
 #End Region
 
 #Region "WPF Properties"
-    Public Property _pName As String
-        Get
-            Return mName
-        End Get
-        Set(value As String)
-            mName = value
-            RaiseEvent PropertyChanged(Me, New PropertyChangedEventArgs("_pName"))
-        End Set
-    End Property
-
+     
 #End Region
 
+    Public Sub New()
+
+    End Sub
+
     Public Sub New(tName As String, tDescription As String, tStyleReaderList As List(Of XmlReader), tLayerReader As List(Of XmlReader), tPlaceReaderList As List(Of XmlReader))
-        mDesctiptionList = New List(Of clsDescription)
-        mStyleList = New List(Of clsPushPinStyle)
-        mLayerList = New List(Of clsLayer)
+        _pDesctiptionList = New List(Of clsDescription)
+        _pStyleList = New List(Of clsPushPinStyle)
+        _pLayerList = New List(Of clsLayer)
 
         Dim _tempPlaceList As New List(Of clsPlace)
 
-        mName = tName
-        mDesctiptionList.Add(New clsDescription(tDescription))
-        For i As Integer = 0 To tStyleReaderList.Count - 1
-            mStyleList.Add(New clsPushPinStyle(tStyleReaderList.Item(i)))
-        Next
+        _pName = tName
+        _pDesctiptionList.Add(New clsDescription(tDescription))
+        'For i As Integer = 0 To tStyleReaderList.Count - 1
+        '    _pStyleList.Add(New clsPushPinStyle(tStyleReaderList.Item(i)))
+        'Next
 
         If tLayerReader.Count = 0 Then
             ''舊版
@@ -43,7 +37,7 @@ Public Class clsBook
                 _tempPlaceList.Add(New clsPlace(tPlaceReaderList.Item(i)))
             Next
 
-            mLayerList.Add(New clsLayer("$default", _tempPlaceList))
+            _pLayerList.Add(New clsLayer("$default", _tempPlaceList))
         Else
             ''新版
             For i As Integer = 0 To tLayerReader.Count - 1
